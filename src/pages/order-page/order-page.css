@@ -1,0 +1,23 @@
+.order-page {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.order-page__left {
+  flex: 1 1 auto;
+  justify-content: space-between;
+}
+
+.order-page__right {
+  font-size: 18px;
+  font-weight: bold;
+}
+.game-cover {
+  /* display: none; */
+}
+@media (max-width: 640px) {
+  body .order-page__right {
+    display: none;
+  }
+}

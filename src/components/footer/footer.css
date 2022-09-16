@@ -1,0 +1,20 @@
+.footer {
+  border-top: 2px solid rgb(33, 35, 37);
+  font-size: 0.81em;
+  display: flex;
+}
+.footer-content {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.footer-links {
+  color: rgb(71, 74, 76);
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.slider {
+  height: 100%;
+  width: 100%;
+  overflow-x: scroll;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+}
+.slider::-webkit-scrollbar {
+  display: none;
+}
+
+.game-wrapper {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+.slide-left,
+.slide-right {
+  /* display: none; */
+  opacity: 0.6;
+  cursor: pointer;
+  transition: opacity 0.4s linear;
+}
+
+.slide-left:hover,
+.slide-right:hover {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .slide-left,
+  .slide-right {
+    display: none;
+  }
+}

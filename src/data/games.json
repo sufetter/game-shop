@@ -1,0 +1,76 @@
+{
+  "games": [
+    {
+      "image": "/game-covers/heartsOfIronIV.jpg",
+      "title": "Hearts of Iron IV",
+      "genres": ["Глобальная стратегия", "RTS", "Война"],
+      "price": 2343.5,
+      "video": "https://www.youtube.com/embed/e9BiUtINy4w",
+      "id": 1,
+      "description": "Hearts of Iron 4 — историческая тактическая стратегия в реальном времени и видом сверху. Игроку предоставляется возможность полностью управлять отдельным государством, его дипломатией, политикой, научными исследованиями, экономикой и военной машиной. Игровой процесс охватывает исторический период с 1936 по 1948 годы, фокусируясь на подготовке ко Второй Мировой войне, на самой войне и послевоенной напряжённости."
+    },
+    {
+      "image": "/game-covers/valorant.jpg",
+      "title": "Valorant",
+      "genres": ["Шутер от первого лица", "Мультиплеер"],
+      "video": "https://www.youtube.com/embed/KbFWhffLM-A",
+      "price": 2433.7,
+      "id": 2,
+      "description": "Valorant — тактический многопользовательский командный шутер от первого лица, разработанный студией Riot Games, авторами League of Legends, с упором на киберспортивную составляющую. Игра напоминает микс CS:GO (геймплей и дизайн карт), Team Fortress (визуальный стиль), Overwatch (уникальные персонажи, активное использование способностей) и собственных решений студии."
+    },
+    {
+      "image": "/game-covers/beyondTwoSouls.webp",
+      "title": "Beyond Two Souls",
+      "genres": ["Интерактивное кино", "Приключение"],
+      "video": "https://www.youtube.com/embed/CkKpElpj8TY",
+      "price": 3021,
+      "id": 3,
+      "description": "За гранью: Две души / Beyond: Two Souls - это приключенческая игра с элементами интерактивного кино, главной героиней которой является девушка по имени Джуди Холмс, обладающая паранормальными способностями. Силой своего взгляда она может взрывать вертолеты, бросаться различными предметами и управлять машинами на расстоянии."
+    },
+    {
+      "image": "/game-covers/deadCells.jpg",
+      "title": "Dead cells",
+      "genres": ["Рогалик", "Платформер"],
+      "video": "https://www.youtube.com/embed/gX4cGcwmdsY",
+      "price": 789,
+      "id": 4,
+      "description": "Dead Cells — Двухмерный экшен совмещает жанр «rogue» и механику Castlevania. Действие происходит в огромном замке, уровни которого генерируются случайным образом. На локациях запрятано обилие секретов, поэтому нужно пристально изучать каждый сантиметр карты. Сложность Dead Cells заключается в перманентной смерти героя — вот уж где хардкор. В случае смерти придётся запускать игру сначала."
+    },
+    {
+      "image": "/game-covers/rainbowSiege.jpeg",
+      "title": "Tom Clancy's Rainbow Six® Siege",
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "genres": ["Тактический шутер", "Мультиплеер"],
+      "price": 982,
+      "id": 5,
+      "description": "Tom Clancy's Rainbow Six: Siege - это очередная часть знаменитого тактического шутера от первого лица, сценарий которого построен на историях реальных контртеррористических операций по всему миру. Игрокам доступен мультиплеер, динамические разрушения и стратегическое планирование."
+    },
+    {
+      "image": "/game-covers/theWitcher3.jpg",
+      "title": "Ведьмак 3 Дикая Охота",
+      "genres": ["Открытый мир", "РПГ", "Для одного игрока"],
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "price": 2863,
+      "id": 6,
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed."
+    },
+    {
+      "image": "/game-covers/theWitcher3.jpg",
+      "title": "Ведьмак 3 Дикая Охота",
+      "genres": ["Открытый мир", "РПГ", "Для одного игрока"],
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "price": 2863,
+      "id": 7,
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed."
+    },
+    {
+      "image": "/game-covers/theWitcher3.jpg",
+      "title": "Ведьмак 3 Дикая Охота",
+      "genres": ["Открытый мир", "РПГ", "Для одного игрока"],
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "price": 2863,
+      "id": 8,
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed."
+    }
+  ]
+}
